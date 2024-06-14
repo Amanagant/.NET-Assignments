@@ -1,0 +1,2 @@
+D:\Wipro-.netFramework\Program1\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+D:\Wipro-.netFramework\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache

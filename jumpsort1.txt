@@ -1,0 +1,8 @@
+﻿14:41:33:733	Build started at 14:41...
+14:41:33:865	1>------ Build started: Project: MenuProgram, Configuration: Debug Any CPU ------
+14:41:34:176	1>D:\Wipro-.netFramework\CustomStack1.cs(15,7,15,13): warning CS0105: The using directive for 'System' appeared previously in this namespace
+14:41:34:176	1>D:\Wipro-.netFramework\CustomStack1.cs(16,7,16,33): warning CS0105: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+14:41:34:176	1>D:\Wipro-.netFramework\ArrayPrograms.cs(6,9,6,15): warning CS0105: The using directive for 'System' appeared previously in this namespace
+14:41:34:188	1>  MenuProgram -> D:\Wipro-.netFramework\MenuProgram\MenuProgram\bin\Debug\MenuProgram.exe
+14:41:34:213	========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+14:41:34:213	========== Build completed at 14:41 and took 00.612 seconds ==========

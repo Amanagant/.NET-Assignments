@@ -1,0 +1,6 @@
+D:\Wipro-.netFramework\MenuProgram\MenuProgram\obj\Debug\MenuProgram.csproj.AssemblyReference.cache
+D:\Wipro-.netFramework\MenuProgram\MenuProgram\obj\Debug\MenuProgram.csproj.CoreCompileInputs.cache
+D:\Wipro-.netFramework\MenuProgram\MenuProgram\bin\Debug\MenuProgram.exe
+D:\Wipro-.netFramework\MenuProgram\MenuProgram\bin\Debug\MenuProgram.pdb
+D:\Wipro-.netFramework\MenuProgram\MenuProgram\obj\Debug\MenuProgram.exe
+D:\Wipro-.netFramework\MenuProgram\MenuProgram\obj\Debug\MenuProgram.pdb
